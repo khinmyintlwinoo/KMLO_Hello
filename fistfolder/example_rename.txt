@@ -1,1 +1,3 @@
 This is the example file
+
+Restore testing line with Add and tracked, commit stage content (not push yet)
