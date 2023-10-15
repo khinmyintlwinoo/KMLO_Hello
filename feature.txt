@@ -1,1 +1,2 @@
 this is feature branch text file
+this is second line added
