@@ -1,3 +1,4 @@
 this is feature branch text file
 this is second line added
 this is third line added
+this is local conflict content
